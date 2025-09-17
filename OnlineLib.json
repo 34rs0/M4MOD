@@ -1,8 +1,5 @@
 {
-    "LOADER": [
-        {
-            "folder_name": "folder",
-            "loader_version": 1
-        }
-    ]
+  "latest_version": "32Bit v1.2",
+  "lib_url": "https://github.com/YARGI735/heads/main/libYARGI.so",
+  "message": "Bug fixes and performance improvements."
 }
