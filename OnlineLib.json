@@ -1,5 +1,5 @@
 {
   "latest_version": "32Bit v1.0",
-  "lib_url": "https://github.com/34rs0/M4MOD/blob/main/libmono.so",
+  "lib_url": "https://raw.githubusercontent.com/34rs0/M4MOD/heads/main/libmono.so",
   "message": "Bug fixes and performance improvements."
 }
